@@ -1,1 +1,1 @@
-new github blog
+github blog
